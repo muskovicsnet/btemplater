@@ -1,0 +1,18 @@
+hu:
+  btemplater:
+    cancel: 'Mégsem'
+    actions:
+      show: 'Megjelenítés'
+      edit: 'Szerkesztés'
+      destroy: 'Törlés'
+      are_you_sure: 'Biztos benne, hogy törli?'
+      back: 'Vissza'
+  not_authorized: 'Nincs joga megtekinteni az oldalt!'
+  ckeditor:
+    page_title: 'CKEditor fájlkezelő'
+    confirm_delete: 'Biztos benne?'
+    buttons:
+      cancel: 'Mégsem'
+      upload: 'Feltöltés'
+      delete: 'Törlés'
+      next: 'Következő'
